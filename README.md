@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">📍 I'm a software developer in training from Leipzig<br>🔗 Check my projects here: (coming soon :D)</p>
+<p align="center">📍 I'm a software developer in training from Leipzig<br>🔗 Check my projects here: https://www.lucasgraf.com/</p>
 
 ###
 
