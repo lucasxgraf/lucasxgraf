@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas 👋</h1>
 
 <p align="center">
-  Full-Stack Developer based in Leipzig, Germany · M.Sc. Wirtschaftsinformatik @ MLU
+  Full-Stack Developer based in Leipzig, Germany · B.Sc. Wirtschaftsinformatik @ MLU
 </p>
 
 <p align="center">
